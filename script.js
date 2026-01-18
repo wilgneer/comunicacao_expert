@@ -47,7 +47,7 @@ document.addEventListener("keydown", (e) => {
 const GOOGLE_SHEETS_WEBAPP_URL =  "https://script.google.com/macros/s/AKfycbyN08tsD4b3e7A8EFHkNzVRJG3hY3O6INQpTKdIgkEa39Lc26x0pWyVxuijMaGOgVcn/exec";
 
 // 2) Link do grupo no WhatsApp
-const WHATSAPP_GROUP_URL = "https://chat.whatsapp.com/BzLQTOdfMxJFoi33EPTHvR";
+const WHATSAPP_GROUP_URL = "https://chat.whatsapp.com/FbJwbDILscA1TEGC4jus7I";
 
 // ===============================
 // FORMULÁRIO / INTEGRAÇÃO
@@ -278,3 +278,4 @@ function setupLiteYouTube() {
 }
 
 setupLiteYouTube();
+
